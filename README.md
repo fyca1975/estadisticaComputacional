@@ -1,9 +1,9 @@
-## Estadistica Computacional
+# Estadistica Computacional
 ```sh
 curso platzi de Estadistica Computacional con Python
 ```
 ## Code 
-# CaminoBorracho
+## CaminoBorracho
 
 ```sh
 /caminoBorracho
@@ -12,7 +12,7 @@ py -m venv env
 source env/bin/activate 
 pip install -r requirements.txt 
 ```
-# fibonnacci
+## fibonnacci
 
 ```sh
 /programacionDinamica
