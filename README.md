@@ -3,6 +3,13 @@
 curso platzi de Estadistica Computacional con Python
 ```
 ## Code 
+## probabilidades
+```sh
+#simulacion tirando un dado obtener un 1
+/probabilidades
+git clone
+```
+
 ## CaminoBorracho
 
 ```sh
