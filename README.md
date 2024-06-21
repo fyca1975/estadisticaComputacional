@@ -2,7 +2,15 @@
 ```sh
 curso platzi de Estadistica Computacional con Python
 ```
-## Code 
+## Code
+
+## Simulaciones de montecarlo
+```sh
+#
+/simulacionMontecarlo
+git clone
+```
+
 ## probabilidades
 ```sh
 #simulacion tirando un dado obtener un 1
